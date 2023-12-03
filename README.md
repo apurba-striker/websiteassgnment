@@ -1,13 +1,13 @@
-# Tailcast
+# Milton
 
-Dark themed website template built on AstroJS, designed for technological startup business.
+Framer and react using astro 
 
 ## Tech stack:
 
 Astro, React, Tailwind, Framer Motion
 
 ## Live link
-[https://tailcast.vercel.app/](https://tailcast.vercel.app/)
+[https://milton12.netlify.app/](https://milton12.netlify.app/)
 
 ##  Project Structure
 
@@ -36,4 +36,7 @@ All commands are run from the root of the project, from a terminal:
 | `npm run dev`          | Starts local dev server at `localhost:3000`        |
 | `npm run build`        | Build your production site to `./dist/`            |
 | `npm run preview`      | Preview your build locally, before deploying       |
+
+
+## developed by apurba
 
